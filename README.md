@@ -54,6 +54,12 @@ Test how fast you can click within a given time and calculate your CPS (Clicks P
 2. Extract the folder
 3. Open `index.html` in your browser
 
+## 📸 Preview
+Example:
+c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 000956.png
+c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 001150.png
+
+
 ---
 
 ### 🔹 Method 2 – Clone Using Git
