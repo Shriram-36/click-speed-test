@@ -186,7 +186,7 @@ Test how fast you can click within a given time and calculate your CPS (Clicks P
 ### 🔹 Method 2 – Clone Using Git
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/click-speed-test.git
+git clone https://github.com/Shriram-36/click-speed-test.git
 
 Then open:
 
