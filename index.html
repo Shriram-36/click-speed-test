@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Click Speed Challenge</title>    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Let's Click</h1>
+        </header>
+        
+        <main>
+            <section class="card game-ui">
+    <h2>⚡ Click Speed Challenge</h2>
+
+    <div class="game-stats">
+        <p>⏳ Time Left: <span id="timeDisplay">0</span>s</p>
+        <p>🖱 Score: <span id="scoreDisplay">0</span></p>
+        <p>📊 CPS: <span id="cpsDisplay">0</span></p>
+        <p>🏆 High Score: <span id="highScore">0</span></p>
+    </div>
+    <div class="progress-container">
+    <div id="progressBar"></div>
+</div>
+
+    <input type="number" id="timeInput" placeholder="Enter time in seconds" min="1">
+    <button id="startBtn">Start Game</button>
+
+    <br><br>
+
+    <button id="actionBtn" disabled>CLICK FAST!</button>
+    <br><br>
+    <button id="resetBtn">Reset</button>
+
+    <p id="finalMessage"></p>
+</section>
+
+        </main>
+        
+        <footer>
+    <p>🏆 Think you're fast ? Prove it!</p>
+    <p>&copy; 2026 Let's Click. All Rights Reserved. <br>  
+     👾 Developed by :- Shriram Eklare</p>
+    
+</footer>
+
+    </div>
+    <audio id="clickSound" preload="auto">
+    <source src="Video Project 1.m4a" type="audio/mpeg">
+</audio>
+
+    
+    <script src="script.js"></script>
+</body>
+</html>
