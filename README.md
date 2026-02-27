@@ -56,8 +56,10 @@ Test how fast you can click within a given time and calculate your CPS (Clicks P
 
 ## 📸 Preview
 Example:
-c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 000956.png
-c:\Users\Shriram\Pictures\Screenshots\Screenshot 2026-02-09 001150.png
+<img width="1912" height="974" alt="Screenshot 2026-02-09 000956" src="https://github.com/user-attachments/assets/b95ad17c-5d21-48af-91d2-79f2eee096f0" />
+
+<img width="1909" height="975" alt="Screenshot 2026-02-09 001150" src="https://github.com/user-attachments/assets/b396ed67-8752-42fa-87d0-7c17e6a4ad13" />
+
 
 
 ---
